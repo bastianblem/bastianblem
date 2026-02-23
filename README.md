@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Bastian 👋
 
-<!--
-**bastianblem/bastianblem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Media Informatics student with a strong interest in **web development** and **UI/UX design**.  
+Currently finishing my Bachelor's degree and building my personal project portfolio.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About me
+- 🎓 Media Informatics student (Bachelor thesis in progress)
+- 💻 Focus on frontend development and user-centered design
+
+---
+
+## 🛠️ Tech Stack
+
+**Frameworks & Tools**
+- Nuxt & Vite
+- React.js & Vue.js
+- Git & GitHub
+- Figma
+- VS Code
+
+**Concepts**
+- Responsive Design
+- UI/UX Principles
+- User-Centered Design
+
+---
+
+Thanks for stopping by 👋

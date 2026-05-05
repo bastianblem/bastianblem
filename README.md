@@ -14,11 +14,11 @@ Currently finishing my Bachelor's degree and building my personal project portfo
 ## 🛠️ Tech Stack
 
 **Frameworks & Tools**
-- Nuxt & Vite
+- Nuxt & Next.js
 - React.js & Vue.js
 - Git & GitHub
 - Figma
-- VS Code
+- Axure 10
 
 **Concepts**
 - Responsive Design

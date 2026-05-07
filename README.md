@@ -3,28 +3,23 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=34&pause=1200&color=58A6FF&center=true&vCenter=true&width=850&lines=Hey%2C+I'm+Bastian+👋;Frontend+Developer;UI%2FUX+Designer;Building+modern+web+experiences)](https://git.io/typing-svg)
 
 <br/>
+<br/>
 
-🎓 Media Informatics student passionate about  
-Frontend Development • UI/UX Design • Modern Web Technologies
+🎓 Media Informatics student passionate about frontend development,  
+UI/UX design and modern web technologies.
 
-Currently finishing my Bachelor's degree.
-Hoping to be a full stack engineer at some point.
+Currently finishing my Bachelor's degree and continuously improving  
+my skills in frontend engineering and user-centered design.
 
 </div>
 
----
-
-## About Me
-
-To be determined.
-
----
+<br/>
 
 ## Tech Stack
 
 ### Frontend & Languages
 
-<p align="left">
+<p align="center">
 
 <img src="https://skillicons.dev/icons?i=nuxtjs,nextjs,react,vue,ts,js,tailwind,css" />
 
@@ -32,23 +27,23 @@ To be determined.
 
 ### Design & Tools
 
-<p align="left">
+<p align="center">
 
 <img src="https://skillicons.dev/icons?i=figma,git,github" />
 
 </p>
 
-<p align="left">
+<p align="center">
 
 <img src="https://img.shields.io/badge/Axure_RP-111827?style=flat-square&logo=axure&logoColor=0096FF" />
 
 </p>
 
----
+<br/>
 
-## 🌐 Connect With Me
+## Connect With Me
 
-<p align="left">
+<p align="center">
 
 <a href="DEIN_LINKEDIN">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
@@ -60,7 +55,7 @@ To be determined.
 
 </p>
 
----
+<br/>
 
 <div align="center">
 

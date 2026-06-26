@@ -45,11 +45,11 @@ my skills in frontend engineering and user-centered design.
 
 <p align="center">
 
-<a href="DEIN_LINKEDIN">
+<a href="https://www.linkedin.com/in/bastian-buettner/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="DEINE_WEBSITE">
+<a href="">
   <img src="https://img.shields.io/badge/Portfolio-111827?style=flat-square&logo=firefoxbrowser&logoColor=white"/>
 </a>
 

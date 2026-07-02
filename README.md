@@ -49,7 +49,7 @@ my skills in frontend engineering and user-centered design.
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="">
+<a href="https://blubdev.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-111827?style=flat-square&logo=firefoxbrowser&logoColor=white"/>
 </a>
 

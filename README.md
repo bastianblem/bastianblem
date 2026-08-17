@@ -5,7 +5,7 @@
 <br/>
 <br/>
 
-🎓 Media Informatics student passionate about frontend development,  
+Media Informatics student passionate about frontend development,  
 UI/UX design and modern web technologies.
 
 Currently finishing my Bachelor's degree and continuously improving  
